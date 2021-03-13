@@ -416,6 +416,7 @@ transform: rotate(180deg);
 
 .nav-ul2 a{
     text-decoration: none;
+    color: hsl(233, 26%, 24%);
 }
 
 .reqButton{
