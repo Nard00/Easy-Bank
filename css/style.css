@@ -28,7 +28,7 @@
 }
 
 #toggle:checked ~  .main-header .main{
-    background: blue;
+    background: brown;
 }
                 /*Visible close-icon*/
 #toggle:checked ~ .main-logo .close{
